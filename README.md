@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto de teste, curso felipedeschamps curso.devn
+Projeto de teste, curso felipedeschamps curso.dev
